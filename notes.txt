@@ -1,0 +1,6 @@
+use previous project as template.
+https://github.com/aspiringguru/stock_analysis/blob/master/ASX_options_selenium_scraping.py
+
+
+
+https://medium.com/wealthy-bytes/leveraging-machine-learning-to-predict-stock-prices-c0a56c81c5e1

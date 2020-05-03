@@ -1,2 +1,7 @@
 passwords.py
+config.py
+iexconfig.py
+*.png
+notebooks/*.png
 env/
+wenv/
